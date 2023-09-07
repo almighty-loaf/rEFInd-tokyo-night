@@ -19,10 +19,10 @@ a Tokyo Night and Tokyo Storm theme for [rEFInd](https://www.rodsbooks.com/refin
     
 
 ### Customization
-this theme has both Night and Storm variants, with Night being the default. this is achived by having a few different options for wallpaper and selection indicators that you can mix and match to your preferences
+this theme has both Night and Storm variants, with Night being the default. this is achived by having a few different options for wallpaper and selection indicators that you can mix and match to your preferences. to do this, you can update the `banner`, `selection_big`, and `selection_small` sections within `theme.conf` such that each section has one uncommented line with the image of your choice
 
-to do this, you can update the `banner`, `selection_big`, and `selection_small` sections within `theme.conf` such that each section has one uncommented line with the image of your choice
+there are also a handful of different fonts and sizes which are unrelated to the Night/Storm variants, which can be similarly controlled with the `font` line
 
-###### Credits
+##### Credits
 UI elements: [rEFInd Regular theme](https://github.com/enkia/tokyo-night-vscode-theme)\
 colors: [Tokyo Night VSCode theme](https://github.com/enkia/tokyo-night-vscode-theme)
