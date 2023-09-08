@@ -32,5 +32,5 @@ Add support for the other icon sizes from the Regular theme
 
 ##### Credits
 UI elements: [rEFInd Regular theme](https://github.com/bobafetthotmail/refind-theme-regular)\
-Colors: [Tokyo Night VSCode theme](https://github.com/enkia/tokyo-night-vscode-theme)
+Colors: [Tokyo Night VSCode theme](https://github.com/enkia/tokyo-night-vscode-theme)\
 Wallpaper: [Tokyo Aesthetic](https://wallpapercave.com/w/wp6570018)
