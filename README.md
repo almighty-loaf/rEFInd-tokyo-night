@@ -2,8 +2,15 @@
 
 **A Tokyo Night and Tokyo Storm theme for [rEFInd](https://www.rodsbooks.com/refind/index.html)**
 
+![tokyo-night-square](https://github.com/almighty-loaf/rEFInd-tokyo-night/assets/418354/8b18b862-3978-4f27-b13c-4f794d96bfe9)
+*Tokyo Night*
+<br>
+<br>
 
-*Sorry I don't have a preview image yet! For some reason the rEFInd screenshot feature is not working on my machine.*
+![tokyo-storm-square2](https://github.com/almighty-loaf/rEFInd-tokyo-night/assets/418354/825bf73a-6c9b-4795-85b0-b8c61ce567fa)
+*Tokyo Storm*
+<br>
+<br>
 
 
 ### Installation
@@ -19,9 +26,9 @@
 
 
 ### Customization
-This theme includes both Night and Storm variants, where Night is a tad darker.
+This theme includes both Night and Storm variants, and a few different selection indicators to fit your preferred style.
 
-This is achived by having a few different options for wallpaper and selection indicators that you can mix and match to your preferences. To do this, you can update the `theme.conf` file to change which images are used in the `banner`, `selection_big`, and `selection_small` options. For your convenience, all available images are already listed in that file and you can swap out the active ones by altering which lines are commented out via the `#` symbol.
+To try out different variants and indicators, you can update the `theme.conf` file to change which images are used in the `banner`, `selection_big`, and `selection_small` options. For your convenience, all available images are already listed in that file and you can swap out the active ones by altering which lines are commented out via the `#` symbol.
 
 There are also a handful of different fonts and sizes that are unrelated to the Night/Storm variants, which can be similarly controlled with the `font` section.
 
