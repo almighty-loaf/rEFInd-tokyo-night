@@ -28,9 +28,13 @@
 ### Customization
 This theme includes both Night and Storm variants, and a few different selection indicators to fit your preferred style.
 
-To try out different variants and indicators, you can update the `theme.conf` file to change which images are used in the `banner`, `selection_big`, and `selection_small` options. For your convenience, all available images are already listed in that file and you can swap out the active ones by altering which lines are commented out via the `#` symbol.
+To make changes to the theme, open the `theme.conf` file and change which options are active. All lines prefixed with a `#` are ignored, otherwise they are considered active. Each line takes the form `option value` where `option` is the identifier for element of the theme and `value` is what that element will look like. There should only be one active entry for each option.
 
-There are also a handful of different fonts and sizes that are unrelated to the Night/Storm variants, which can be similarly controlled with the `font` section.
+For your convenience, all included images are already listed in the file, so you can just swap the active entries.
+
+This theme also includes the popular [Tokyo Aesthetic](https://wallpapercave.com/w/wp6570018) wallpaper, with a little baked in blur to improve legibility of icons and text. To use this, activate the appropriate `banner` option for the wallpaper that matches your monitor's aspect ratio. You can of course upload a custom wallpaper of your choosing by placing it in the `wallpaper` directory and editing the active `banner` option accordingly. (For consistency, I recommend using an image that exactly matches your monitor's resolution, or the resolution you configured in the base `refind.conf` config file.)
+
+There are also a handful of different fonts and sizes that are unrelated to the Night/Storm variants as `font` options.
 
 
 #### TODO
