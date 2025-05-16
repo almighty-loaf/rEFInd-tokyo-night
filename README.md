@@ -1,4 +1,4 @@
-# rEFInd Tokyo Night
+# rEFInd theme - Tokyo Night
 
 **A Tokyo Night and Tokyo Storm theme for [rEFInd](https://www.rodsbooks.com/refind/index.html)**
 
